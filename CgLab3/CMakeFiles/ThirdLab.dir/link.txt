@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ThirdLab.dir/skeleton.cpp.o -o ThirdLab  -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL 

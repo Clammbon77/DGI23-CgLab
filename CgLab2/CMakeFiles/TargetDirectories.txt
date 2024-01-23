@@ -1,0 +1,3 @@
+/home/yeqi/Documents/DH2323/CgLab2/CMakeFiles/SecondLab.dir
+/home/yeqi/Documents/DH2323/CgLab2/CMakeFiles/edit_cache.dir
+/home/yeqi/Documents/DH2323/CgLab2/CMakeFiles/rebuild_cache.dir
